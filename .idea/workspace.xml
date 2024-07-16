@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="277ff36b-ba93-429d-9571-0b9ff9f08e72" name="Changes" comment="" />
+    <list default="true" id="277ff36b-ba93-429d-9571-0b9ff9f08e72" name="Changes" comment="Test to check if connection with Github was succesfull">
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +12,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "BoesNoel"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/BoesNoel/ImageCompression-HuffmanCoding",
+    "accountId": "6662b86e-922b-4464-889b-70d11aadca13"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 1
 }]]></component>
@@ -65,17 +79,27 @@
       <option name="presentableId" value="Default" />
       <updated>1721162305768</updated>
     </task>
+    <task id="LOCAL-00001" summary="Test to check if connection with Github was succesfull">
+      <option name="closed" value="true" />
+      <created>1721162465732</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721162465732</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Test to check if connection with Github was succesfull">
+      <option name="closed" value="true" />
+      <created>1721162498767</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1721162498767</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Test to check if connection with Github was succesfull" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test to check if connection with Github was succesfull" />
   </component>
 </project>
